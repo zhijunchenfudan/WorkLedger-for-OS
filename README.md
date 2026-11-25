@@ -3,7 +3,6 @@
 **Companion to** *WorkLedger: An Auditable Instrument for Measuring Work Output in AI-Augmented Organizations*  
 Stage 1 proposal, *Organization Science*, Special Issue on AI-Enabled Frontiers in Organizational Science
 
-Corresponding author: Zhijun Chen, School of Management, Fudan University  
 Version 1.0 · 25 November 2026
 
 ---
